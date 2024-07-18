@@ -1,4 +1,3 @@
-# README.md
 
 # Analisi delle Reti Alimentari del Florida Bay
 
